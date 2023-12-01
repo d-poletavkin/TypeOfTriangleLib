@@ -1,0 +1,2 @@
+# TypeOfTriangleLib
+This is simple library written in C# with only one method. This method accepts 3 triangle's sides as parameters and returns string describing type of triangle - Equilitera, Obtuse, Right or Acute
